@@ -1,0 +1,6 @@
+@media(max-width:991px) {
+  .nav-item:not(:last-child) {
+    margin-right: 0;
+
+  }
+}
